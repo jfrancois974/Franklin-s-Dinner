@@ -13,7 +13,7 @@
             <div class="column three">
                 <strong>Location</strong>
                 124 Kapital Malin Bd
-                Earth, EA;
+                Earth, STATES LIBERTY.
             </div>
 
             <!--    column      -->
